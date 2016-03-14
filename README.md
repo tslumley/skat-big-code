@@ -4,7 +4,7 @@ fht.c: fast Hadamard transform
 
 skat-big.R: Lanczos algorithm, using the 'svd' package
 
-srht.R: algorithms based on sampling, both stochastic SVD and Lanczos algorithm with randomized trace estimator.
+srht.R: algorithms based on sampling, stochastic SVD and randomized trace estimator.
 
 
 skat-sim2: example of simulations with the code.  Uses Gary Chen's MaCS simulator (https://github.com/gchen98/macs) to make the data
